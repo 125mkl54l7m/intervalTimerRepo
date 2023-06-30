@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
     var timeLeft: Date?
     weak var timer: Timer?
-    var number = 3
+    var number = 100
     
     @objc func timerSpecifications() {
 
@@ -30,6 +30,7 @@ class ViewController: UIViewController {
             return
         }
         number -= 1
+        timerTextLabel.text = "\(number)"
         
     }
     
