@@ -7,7 +7,7 @@ Handling the timer's state when user leaves & comes back to the app. Without hav
 
 ## Demo
 
-![GIF]([url here](https://github.com/125mkl54l7m/intervalTimerRepo/blob/main/sample.gif?raw=true))
+![GIF](https://github.com/125mkl54l7m/intervalTimerRepo/blob/main/sample.gif?raw=true)
 
 When the user leaves and re-enters the app while the timer is active, the app displays the remaining time left and continues running the timer.
 ## Usage/Examples
